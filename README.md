@@ -43,6 +43,7 @@ Python reference (`python_reference.xlsx`) shows exact match. Minor differences 
 **Telegram:** [t.me/mahyar_mohebnia](https://t.me/mahyar_mohebnia)
 
 **Rates:** Project-based | Hourly available
+
 --------------------------
 # لایه کانولوشن ۳۲ فیلتری VHDL (۲۸×۲۸ → ۳۲ فیلتر)
 
